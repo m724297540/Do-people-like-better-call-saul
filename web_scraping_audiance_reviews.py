@@ -60,4 +60,4 @@ for season in range(1,7):
     get_audience_reviews(season)
 
 df = pd.DataFrame(reviews)
-df.to_csv('Better_Call_Saul_Season_audience_reviews.csv', index = False)
+df.to_csv('Better_Call_Saul_audience_reviews.csv', index = False)
