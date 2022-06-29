@@ -1,4 +1,4 @@
-# How-good-is-Better-Call-Saul
+# Do People Like Better Call Saul?
 ## Data
 1. [web_scraping_audience_reviews.py](https://github.com/m724297540/How-good-is-Better-Call-Saul/blob/master/web_scraping_audiance_reviews.py) 
 and [web_scraping_audience_reviews.py](https://github.com/m724297540/How-good-is-Better-Call-Saul/blob/master/web_scraping_critic_reviews.py) 
